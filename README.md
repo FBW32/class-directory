@@ -1,6 +1,6 @@
 # class-directory
 
-## instructions
+## Instructions
 
 - Clone this repo and add your name to the directory (on the master branch).
 - Push changes made to the repository. 
