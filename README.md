@@ -16,9 +16,8 @@ Madhumitha
 
 Shanti
 
-<<<<<<< HEAD
 Maja
-=======
+
 Misbah
 
 Micha
